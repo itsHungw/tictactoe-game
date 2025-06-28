@@ -5,7 +5,7 @@ A simple Java-based Tic-Tac-Toe game with three modes: Player vs Player, Player 
 ## Features
 - **Player vs Player**: Two players take turns on the same device.
 - **Player vs CPU (Easy)**: CPU makes random moves.
-- **Player vs CPU (Hard)**: CPU uses a smart strategy to win or block the player.
+- **Player vs CPU (Hard)**: CPU uses a (not realy ) smart strategy to win or block the player.
 - Console-based interface with a 3x3 grid.
 
 ## How to Run
